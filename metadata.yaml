@@ -1,0 +1,27 @@
+_repo: An-historical-sketch-of-the-First-Hillsboro-Baptist-Church_75602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Camp, Wellington
+    gutenberg_agent_id: '58067'
+    url: http://www.gutenberg.org/2009/agents/58067
+description: ''
+gutenberg_issued: '2025-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75602'
+language: en
+pgterms:marc904: https://archive.org/details/cihm_06962/page/n5/mode/2up
+pgterms:marc905: 20230329091647camp
+pgterms:marc906: '1893'
+pgterms:marc907: CA
+production_note: George A. Rawlyk Library, Crandall University, produced from scans
+  generously made available by the Internet Archive.
+publication_note: '  $aSt John :$bSt. John, N.B. : [s.n.], $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An historical sketch of the First Hillsboro Baptist Church
+url: http://www.gutenberg.org/ebooks/75602
