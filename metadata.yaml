@@ -1,11 +1,16 @@
 _repo: An-historical-sketch-of-the-First-Hillsboro-Baptist-Church_75602
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Camp, Wellington
     gutenberg_agent_id: '58067'
     url: http://www.gutenberg.org/2009/agents/58067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75602#An-historical-sketch-of-the-First-Hillsboro-Baptist-Church
 gutenberg_issued: '2025-03-13'
 gutenberg_type: Text
 identifiers:
